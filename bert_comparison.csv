@@ -1,0 +1,3 @@
+Model,Parameters,Train Time (min),Train AUC,Val AUC,Train Acc,Val Acc
+bert-base-cased,"108,311,810",9.92,1.0000,1.0000,0.9994,0.9968
+bert-large-cased,"333,581,314",27.83,1.0000,0.9999,0.9989,0.9954

@@ -1,0 +1,6 @@
+Sample,Model,Attack Type,Original AI Prob,Generated AI Prob,Detected as AI,Fooled BERT
+0,microsoft/Phi-3.5-mini-instruct,human,1.55687885126099e-05,0.9997065663337708,1,False
+1,microsoft/Phi-3.5-mini-instruct,human,0.0007660109549760818,0.9999957084655762,1,False
+2,microsoft/Phi-3.5-mini-instruct,human,1.5890014765318483e-05,0.9944093823432922,1,False
+3,microsoft/Phi-3.5-mini-instruct,human,1.760504164849408e-05,0.9999209642410278,1,False
+4,microsoft/Phi-3.5-mini-instruct,human,1.684082417341415e-05,0.9999945163726807,1,False

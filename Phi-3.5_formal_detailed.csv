@@ -1,0 +1,136 @@
+sample_id,model,attack_type,original_text,generated_text,original_ai_prob,generated_ai_prob,fooled
+0,microsoft/Phi-3.5-mini-instruct,formal,"In the past few years, smarter cars have come about and have gained popularity as word has spread. Many feel that smarter cars bring a new perspective to the automobile industry; however, others feel that they are a hazard and could injure drivers on the road. I believe that the development of smarter cars should be stopped and that focus should be turned on improving regular, fully drivible cars.
+
+The development of driverless cars should be stopped because if not, they would cause new traffic laws to be created. As a reult, all drivers to change their ways on the roads. Many states do not allow computer-driven cars to be drove being that that are looking out for the safety of their residents. Some people would have to abide to the rules if they chose to drive a smarter car; however, those who drive regular car may believe that learning new regulations is a waste of time and could further injury themselves or others. Lastly, new laws for driverless cars would take many years inorder for everyone to adapt do, being that there are many people around the world.
+
+Driverless cars are not safe being that they are ran on computers that can often have technical difficulties or failure. An important topic discussed by producers is how is a passenger's safety ensured? Some feel that they can trust the technology because of the importance it plays in our life everyday; a driveless car would just be another thing added. In opposition to this, some feel that their use of technology has allowed them to feel that computers/ technolgy can result in failure. If driverless cars were allowed on the road addition accidents could be caused if the technolgy or computers were to fail while being driven.
+
+Lastly, the development of driverless cars should be haulted because issues can arise between drivers and consumers. As stated in the article ""Driverless Care Are Coming"", the idea of fault has come about. This is due to the fact that if an accident were to occur, then who is to blame, the driver or the car or the manufacturer. Drivers would feel that it is the manufacturers fault because they are ones creating the cars and aquipping them with technology. At the same time, manufaturues would believe it is a drivers fault because they put themselves behind the wheel and were aware of the cars capabilities.
+
+In conclusion, I am against the development of driverless cars. Driverless cars would create new traffic laws that would take time inorder for everyone to abide and adapt to. Driverless cars are run on the power of computers which can fail or have difficulties. Lastly, driverless cars lead to the topic of fault when an accident occurs. Driverless cars can be beneficial, but they need to be fully scrutinized before they are place on the roads full of drivers and passengers, ensuring the safety of all."," Over the recent years, the emergence and subsequent popularity of intelligent vehicles have marked a significant development within the automotive industry. While there is a segment of the populace that perceives these advancements as a novel perspective, there is an opposing viewpoint that considers them potentially perilous and detrimental to road safety. I advocate for a strategic reassessment of this trajectory, suggesting that resources be redirected towards the enhancement of conventional, fully drivable vehicles.
+
+The advancement of autonomous vehicles necessitates the formulation of novel traffic regulations, which in turn would compel all road users to modify their habits. It is noteworthy that several jurisdictions currently prohibit computer-driven vehicles due to concerns for the welfare of their constituents. Furthermore, individuals operating standard automobiles might perceive the adaptation to these new regulations as an unnecessary endeavor, potentially escalating the risk of harm to themselves and others.
+
+The safety of autonomous vehicles is a topic of considerable debate, primarily due to their reliance on computer systems, which are susceptible to technical glitches or malfunctions. The question of how passenger safety is ensured in such vehicles remains a contentious issue. While some advocate for the inherent trust in technology given its pervasive role in our lives, others caution against an over-reliance on technology, given its demonstrated capacity for failure. The introduction of autonomous vehicles into the public roadways could potentially precipitate additional accidents if these technological systems were to malfunction.
+
+Moreover, the advent of autonomous vehicles introduces complexities related to liability in the event of an accident. As highlighted in the scholarly article ""Driverless Cars Are Coming,"" the issue of fault has become a critical concern. The question of whether the fault lies with the driver, the vehicle, or the manufacturer remains unresolved. Drivers may attribute blame to the manufacturers for the development and integration of the technology, whereas manufacturers may argue that the responsibility lies with the drivers for operating the vehicles.
+
+In summation, I firmly oppose the development and deployment of autonomous vehicles without comprehensive scrutiny and rigorous safety evaluations. The introduction of autonomous vehicles into the existing traffic ecosystem would necessitate new regulations, demanding considerable time for adaptation by all",1.561241333547514e-05,0.9999954700469971,False
+1,microsoft/Phi-3.5-mini-instruct,formal,"Dear TEACHER_NAME,
+
+My name is STUDENT_NAME and I am in eighth grade. I think that requiring everyone to perform community service would be a great idea. If everyone threw their trash on the ground, our school and community would be a dirty place. I know that would be a bad thing. It wouldn't hurt if everyone went outside every couple of days and picked up litter. If we did that our school and community wouldn't get trashed and people would see that we really do care about our school. We could also recycle plastic, paper, and aluminum. By recycling aluminum, we could earn some extra money for our school. That would make it easier for us to do more things like field trips, more equipment for our school, and books for our library and our class rooms. We could also use that money for show choir or sport activities. It wouldn't be as much money to buy their dresses and suits.
+
+This is my position on weather students should be required to do community service or not. I hope you think about this and make a good decision.
+
+Sincerely,
+
+STUDENT_NAME"," Dear [Teacher's Name],
+
+I am [Student's Name], currently enrolled in the eighth grade. I would like to express my viewpoint that implementing a mandatory community service requirement for all students could significantly benefit our school and local community.
+
+Imagine a scenario where individuals disregard their environment by carelessly discarding waste. Such behavior would undoubtedly lead to a polluted and unpleasant atmosphere within our educational institution and surrounding community. It is our collective responsibility to preserve and maintain a clean environment, and I firmly believe that periodic cleanup efforts, including litter collection, would greatly contribute to this cause.
+
+Furthermore, the integration of recycling programs for materials such as plastic, paper, and aluminum would not only demonstrate our commitment to environmental stewardship but could also yield financial benefits. The revenue generated from recycling could be allocated towards enhancing our school's infrastructure, such as upgrading field trip opportunities, purchasing additional equipment, and expanding our library and classroom resources. Moreover, these funds could be utilized to support extracurricular activities like show choir or sports, which play an essential role in the holistic development of our students.
+
+In conclusion, I urge you to consider the potential advantages of mandating community service as part of our educational curriculum. I trust that your thoughtful deliberation on this matter will result in a decision that fosters a sense of responsibility, community engagement, and academic excellence among our student body.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Student's Name]",6.0449539887486026e-05,0.9999949932098389,False
+2,microsoft/Phi-3.5-mini-instruct,formal,"The electorial colledge should be done with. we just need to get rid of it and why do i think this you may ask well becouse we dont really get to choose who goes into office the electorial colledge does. why do we even vote when we dont really get to choose who goes into office there gonna do what they want to anyway. so i do think that we should get rid of the electorial colledge.
+
+what is the point of us waisting are time voting. the people should have the right to choose who goes into office and who leads there country. if you wont let them choose then why would you tell them that every vote matters and that there vote really could make a differece becouse it wont. now does the electorial colledge normally do what thy are supposed to yes but do they always no there gonna pick who ever they like more. thats one reason that i think that the electorial colledge should be gotten rid of.
+
+im not shure but why do we even have an electorial colledge if all they do is chose the votes from are votes we dont need people to choose themselves all we need is a person that can tally up all of the votes or a machine im pretty shure that most voting is electronic now so thats even easier all you need is a computer. so that would save money not having to pay for a whole bunch of people to be doing it themselves.
+
+thats what i think about the electorial colledge mr. senetor so maybe you can help out and get rid of the electorial colledge. if the government did get rid of the electorial colledge then a lot of people including me would be a lot happier. i do not know vary many detail or any of the stuff that the electorial colledge does besides tally and help pick who should be the president and i think that they may even help pick the senetor of stats but i do not know so i cant say for shure  for shure we may actually have full controll of who are senetor is. all that i am trying to say is that if we have freedom then why do they tell us that we get to pick who rules or who helps govern the united states of amerca so they shouldnt say every vote counts and that everyone should vote becouse why should we it really in truely doesnt matter who we piccked any ways so thats all that i know about the electorial colledge and all i can say about it but definetley get rid of the colledge. thanks for the time and dont forget we do not like the electorial colledge at all so destroy it and dont let it come back.    "," The Electoral College ought to be abolished, as it undermines the democratic principles upon which our electoral system is founded. The fundamental question arises: why endure a process that effectively diminishes the value of individual votes? The Electoral College, by design, precludes direct popular participation in the selection of our representatives, leading to a scenario where the elected officials are not necessarily reflective of the popular vote. This discrepancy between the electorate's choice and the ultimate outcome of presidential elections prompts a reconsideration of its relevance and necessity.
+
+The core argument for the abolition of the Electoral College centers on the belief that the right to choose our leaders should not be compromised. The principle of democracy inherently demands that citizens have the final say in the selection of their representatives. By allowing the Electoral College to override the popular vote, we inadvertently create a system that contradicts this principle. Thus, it becomes imperative to question the utility of the Electoral College in an era where direct democracy and technological advancements offer alternative solutions.
+
+The current reliance on manual tallying and counting of votes by the Electoral College is becoming increasingly obsolete. With the majority of modern voting systems transitioning to electronic platforms, the efficiency and accuracy of vote counting can be significantly improved. The elimination of the Electoral College would not only streamline the electoral process but also reduce associated costs, as it would no longer necessitate a substantial workforce dedicated to this archaic system.
+
+It is, however, crucial to acknowledge that the Electoral College plays a role in the selection of certain offices, such as the President and, potentially, Senators. Yet, this does not negate the argument for its abolition. The primary concern remains the disconnection between the popular vote and the final outcome, which continues to erode public trust in our democratic system.
+
+In conclusion, the Electoral College, despite its historical significance, has become an outdated mechanism that hinders the fulfillment of democratic ideals. By removing this institution, we can restore faith in our electoral system, empower citizens with genuine choice, and embrace modern advancements to ensure a fair and accurate representation of the people's will. Therefore, it is incumbent upon our policymakers to consider the abolition",1.748839349602349e-05,0.9999959468841553,False
+3,microsoft/Phi-3.5-mini-instruct,formal,"Students shouldn't be forced to do something they don't want to do.
+
+They can get easily fed up with doing things that they are forced to do.
+
+So when a student that doesn't want to do a extracurricular activity, he or she would easily get fed up with it.
+
+Which the student could drag that group down if he or she doesn't want to be in that group that does that extracurricular activity.
+
+Here are some reasons why they shouldn't be forced to.
+
+Students have things going on outside of school.
+
+It can be about family, friends, school.
+
+Now when a student has to do more work that adds on to what he or she already has to do, it can be hard on the student.
+
+The student is now overloaded with work and can become stressed.
+
+More work, can also hurt the students physical heath and mental health.
+
+Mental health and physical health are the 2 big health's of the body that we all need to focus on.
+
+With more work loaded on the student, he or she can become easily stressed.
+
+Therefore, the student can get less sleep or have unhealthy eating habits.
+
+In addition, with less sleep, the student is now tired and cannot think through thoroughly.
+
+Also with the unhealthy eating habits due to stress, the student now has one more thing to worry about.
+
+Out comes of student having mental and physical health in harm, such as being stressed with to much work can lead into bigger problems.
+
+Depression or suicidal thoughts can rise in the students head.
+
+Also the student can sabotage the group because he or she cannot get the work done.
+
+In addition, he or she doesn't like it.
+
+That student can also effect other students around the he or she.
+
+Extracurricular activities fit some students and don't fit some students.
+
+Students should still have the option to do extracurricular activities, but not be forced to.
+
+As shown, it can affect mental health and physical health.
+
+Also the student can do other things outside of school that he or she wants to do.
+
+In addition, the student can have problems with his or her family that they are dealing with.
+
+Work load can easily rise and stress can go through the roof for the student.
+
+So students shouldn't be forced to do these extracurricular activities, but should always be an option.          "," Students should not be compelled to engage in activities that they lack enthusiasm for. Such compulsory participation can lead to disillusionment and a decline in motivation.
+
+When a student demonstrates a lack of interest in a particular extracurricular activity, they are likely to experience disengagement. This disengagement can potentially impede the progress of the entire group if the student's contribution is essential.
+
+There are several reasons to avoid obligating students to participate in extracurricular activities. Students often have personal commitments outside of school, including familial responsibilities and social engagements.
+
+In addition to these existing obligations, forcing students to take on additional tasks can lead to an overwhelming workload. This can induce stress, which is detrimental to both mental and physical well-being. Mental and physical health are crucial aspects of a student's overall development, and neglecting them can have long-term consequences.
+
+Moreover, stress can disrupt a student's sleep patterns, leading to fatigue and diminished cognitive abilities. Unhealthy eating habits, often a result of stress, further compound these issues, creating an additional burden for the student.
+
+The psychological repercussions of excessive workload and stress may manifest as depression or even suicidal thoughts. Furthermore, a student who is unable to fulfill their obligations within a group due to lack of interest can hinder the progress of their peers.
+
+Extracurricular activities may be beneficial for some students, but it is imperative that participation remains voluntary. Students should be provided with the option to engage in these activities but should not be coerced.
+
+In conclusion, while extracurricular activities can contribute positively to a student's development, it is essential to respect their autonomy and personal circumstances. Allowing students the choice to participate, without imposing it, can help foster a more conducive environment for their mental and physical well-being, and overall academic success.",2.2894360881764442e-05,0.9999964237213135,False
+4,microsoft/Phi-3.5-mini-instruct,formal,"The use of technology to read the emotional expressions of students in a classroom is not taht valuable bacause you can tell how a person might be feeling by looking at their face expression. People show their feelings by showing their facial expression towards others, but some people just wont show how they feel with facial expressions, they might express their emotions through words.
+
+Emotional expressions are not always a true version of a person's feelings. People some times pretend to express something else then how they really are feeling inside. Everyone has gone through the same problem of having to fake a smile and pretend to be happy, but in the inside you might just feel awful. Also, there's no reason why a computer should tell us how we're emotionally feeling, the paragraph shows how a student gives his or her parthner directions on how to move the muscles to smile, which it shows that by looking at the muscles on someone's facial expression we can aslo tell their emotional expressions.
+
+Knowing how someone feel can aslo make you figure out a way on how you could help out and make them feel better if they're not feeling well. A computer can't help out someone feel better, but us as humans can. Technology is not valuble for students in a classroom, it can help read your emotional expressions, but it can't help you feel in a better way."," The utilization of technology for interpreting the emotional expressions of students within an academic setting is arguably not of significant value. Although facial expressions can often serve as indicators of an individual's emotional state, it is crucial to acknowledge that they do not always provide an accurate reflection of one's true feelings.
+
+Facial expressions are a common method through which individuals communicate their emotions, yet it is essential to recognize that not all individuals consistently express their emotions through facial cues. Some individuals may opt to convey their emotions verbally, which may not always align with their facial expressions.
+
+Moreover, it is essential to consider that emotional expressions may sometimes be deceptive, as individuals may feign certain emotions to project a different reality. This phenomenon is not uncommon, with many individuals experiencing the challenge of presenting a facade of happiness or contentment despite experiencing negative emotions internally.
+
+While technology may possess the capability to analyze facial expressions and potentially identify emotional states, it lacks the capacity to genuinely assist individuals in navigating their emotional experiences. Unlike technology, humans possess the innate ability to empathize, offer support, and provide emotional comfort to those in need.
+
+In conclusion, while technology may serve as a tool for assessing students' emotional expressions within a classroom environment, it should not be considered a substitute for human connection and support. The nuances and complexities of human emotions necessitate a more profound understanding and approach, one that technology alone cannot provide. As such, it is imperative that educators and individuals prioritize the cultivation of meaningful relationships and emotional intelligence to better support students and promote a positive learning environment.",2.273123936902266e-05,0.9999961853027344,False

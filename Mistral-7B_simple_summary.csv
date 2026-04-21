@@ -1,0 +1,6 @@
+Sample,Model,Attack Type,Original AI Prob,Generated AI Prob,Detected as AI,Fooled BERT
+0,mistralai/Mistral-7B-Instruct-v0.3,simple,1.4965257832955103e-05,0.00013114804460201412,0,True
+1,mistralai/Mistral-7B-Instruct-v0.3,simple,1.7165964891319163e-05,0.034437455236911774,0,True
+2,mistralai/Mistral-7B-Instruct-v0.3,simple,2.3261920432560146e-05,0.9887245297431946,1,False
+3,mistralai/Mistral-7B-Instruct-v0.3,simple,1.5344359781011008e-05,0.9923627376556396,1,False
+4,mistralai/Mistral-7B-Instruct-v0.3,simple,1.5382247511297464e-05,0.9999954700469971,1,False

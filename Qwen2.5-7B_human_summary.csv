@@ -1,0 +1,6 @@
+Sample,Model,Attack Type,Original AI Prob,Generated AI Prob,Detected as AI,Fooled BERT
+0,Qwen/Qwen2.5-7B-Instruct,human,1.5701449228799902e-05,0.999983549118042,1,False
+1,Qwen/Qwen2.5-7B-Instruct,human,3.574425500119105e-05,0.0006299558444879949,0,True
+2,Qwen/Qwen2.5-7B-Instruct,human,2.233146187791135e-05,0.9999946355819702,1,False
+3,Qwen/Qwen2.5-7B-Instruct,human,4.659723708755337e-05,0.9957018494606018,1,False
+4,Qwen/Qwen2.5-7B-Instruct,human,2.847076757461764e-05,0.9999955892562866,1,False
